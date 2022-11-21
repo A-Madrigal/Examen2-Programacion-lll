@@ -1,0 +1,15 @@
+C:\Users\antho\source\repos\Ejemplo_LINQ\Ejemplo_LINQ\bin\Debug\net6.0\Ejemplo_LINQ.exe
+C:\Users\antho\source\repos\Ejemplo_LINQ\Ejemplo_LINQ\bin\Debug\net6.0\Ejemplo_LINQ.deps.json
+C:\Users\antho\source\repos\Ejemplo_LINQ\Ejemplo_LINQ\bin\Debug\net6.0\Ejemplo_LINQ.runtimeconfig.json
+C:\Users\antho\source\repos\Ejemplo_LINQ\Ejemplo_LINQ\bin\Debug\net6.0\Ejemplo_LINQ.dll
+C:\Users\antho\source\repos\Ejemplo_LINQ\Ejemplo_LINQ\bin\Debug\net6.0\Ejemplo_LINQ.pdb
+C:\Users\antho\source\repos\Ejemplo_LINQ\Ejemplo_LINQ\obj\Debug\net6.0\Ejemplo_LINQ.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\Ejemplo_LINQ\Ejemplo_LINQ\obj\Debug\net6.0\Ejemplo_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\source\repos\Ejemplo_LINQ\Ejemplo_LINQ\obj\Debug\net6.0\Ejemplo_LINQ.AssemblyInfoInputs.cache
+C:\Users\antho\source\repos\Ejemplo_LINQ\Ejemplo_LINQ\obj\Debug\net6.0\Ejemplo_LINQ.AssemblyInfo.cs
+C:\Users\antho\source\repos\Ejemplo_LINQ\Ejemplo_LINQ\obj\Debug\net6.0\Ejemplo_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\Ejemplo_LINQ\Ejemplo_LINQ\obj\Debug\net6.0\Ejemplo_LINQ.dll
+C:\Users\antho\source\repos\Ejemplo_LINQ\Ejemplo_LINQ\obj\Debug\net6.0\refint\Ejemplo_LINQ.dll
+C:\Users\antho\source\repos\Ejemplo_LINQ\Ejemplo_LINQ\obj\Debug\net6.0\Ejemplo_LINQ.pdb
+C:\Users\antho\source\repos\Ejemplo_LINQ\Ejemplo_LINQ\obj\Debug\net6.0\Ejemplo_LINQ.genruntimeconfig.cache
+C:\Users\antho\source\repos\Ejemplo_LINQ\Ejemplo_LINQ\obj\Debug\net6.0\ref\Ejemplo_LINQ.dll
